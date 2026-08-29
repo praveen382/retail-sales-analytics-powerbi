@@ -164,3 +164,28 @@ retail-sales-analytics-powerbi/
 │   └── 04-store-performance.png
 │
 └── README.md
+## 🚀 Project Workflow
+
+Raw Data
+   ↓
+Data Preparation
+   ↓
+SQL Analysis
+   ↓
+Data Modeling
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
+
+## 🖥️ Dashboard Preview
+
+## 📂 Project Structure
+
+## 👨‍💻 Author
+
+**Praveen S**
+
+M.Sc. Computer Science
+
+Data Analytics | SQL | Power BI | Excel
